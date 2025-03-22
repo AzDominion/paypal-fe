@@ -1,0 +1,6 @@
+SDLS is good using devops and agile frameworks
+linux is an open source operatuing system
+scripting is automation
+git is a distribued version control system
+aws is a cloud computing provider
+ec2 is avirtual server in the cloud.
