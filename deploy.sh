@@ -1,2 +1,3 @@
 Application is ready to be deployed to the development environment
-development  must  be well reviewed by managers before deployment 
+idevelopment  must  be well reviewed by managers before deployment
+all work is completed
